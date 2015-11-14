@@ -2,6 +2,13 @@
 
 Planets of the Solar System
 
+## Description
+
+This repository is used by the 
+<a href="http://github.com/enormandeau/github_tutorial" target="_blank">
+Unofficial Introduction to GitHub for Scientists</a> as an example of how to
+use git and GitHub to track and commit changes.
+
 ## Licence
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img
