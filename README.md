@@ -15,9 +15,9 @@ use git and GitHub to track and commit changes.
 Head over to
 <a href="http://github.com/enormandeau/github_tutorial" target="_blank">
 Unofficial Introduction to GitHub for Scientists</a>
-and follow the tutorial step by step. The `Planets` repository will be used as
-a template project. You will have to modify the `planets.sh` script so that it
-displays information about the planets of the solar system.
+and follow the tutorial step by step. The `Planets` repository is used as a
+template project. You will add planets to the `data` folder and modify the
+`planets.sh` script so that it displays information about the planets.
 
 ## Licence
 
