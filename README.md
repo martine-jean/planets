@@ -6,8 +6,18 @@ Planets of the Solar System
 
 This repository is used by the 
 <a href="http://github.com/enormandeau/github_tutorial" target="_blank">
-Unofficial Introduction to GitHub for Scientists</a> as an example of how to
+Unofficial Introduction to GitHub for Scientists</a>
+as an example of how to
 use git and GitHub to track and commit changes.
+
+## How to use
+
+Head over to
+<a href="http://github.com/enormandeau/github_tutorial" target="_blank">
+Unofficial Introduction to GitHub for Scientists</a>
+and follow the tutorial step by step. The `Planets` repository will be used as
+a template project. You will have to modify the `planets.sh` script so that it
+displays information about the planets of the solar system.
 
 ## Licence
 
