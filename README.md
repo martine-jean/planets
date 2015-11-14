@@ -30,6 +30,6 @@ displays information about the planets of the solar system.
   href="https://github.com/enormandeau/planets"
   property="cc:attributionName" rel="cc:attributionURL">Eric Normandeau</a> is
   licensed under a <br/><a rel="license"
-  href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution
+  href="http://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution
   4.0 International License
   </a>.
