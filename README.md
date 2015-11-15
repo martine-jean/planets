@@ -12,7 +12,10 @@ use git and GitHub to track and commit changes.
 
 ## How to use
 
-Head over to
+This project will work on Linux and MacOSX computers where git has been
+installed.
+
+Head over to the
 <a href="http://github.com/enormandeau/github_tutorial" target="_blank">
 Unofficial Introduction to GitHub for Scientists</a>
 and follow the tutorial step by step. The `Planets` repository is used as a

@@ -1,11 +1,12 @@
 #!/bin/bash
 # Displays information about the planets of the solar system
 
-# List the planets
+# Section 1 - Display the introduction sentence
 echo "The planets of the solar system are:"
-ls -1 data
+echo
 
-# Print informations about the planets
-echo "The description of the earth is:"
-cat data/earth
+# Section 2 - Display the planet information
+echo "Earth:"
+cat data/Earth
+echo
 
